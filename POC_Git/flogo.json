@@ -1,0 +1,34 @@
+{
+    "imports": [
+        "github.com/project-flogo/flow"
+    ],
+    "name": "POC_Git",
+    "description": "",
+    "version": "1.0.0",
+    "type": "flogo:app",
+    "appModel": "1.1.1",
+    "feVersion": "2.11.0",
+    "triggers": [],
+    "resources": [
+        {
+            "id": "flow:logMessage",
+            "data": {
+                "name": "logMessage",
+                "description": "",
+                "links": [],
+                "tasks": [],
+                "metadata": {
+                    "input": [],
+                    "output": [],
+                    "fe_metadata": {}
+                }
+            }
+        }
+    ],
+    "properties": [],
+    "connections": {},
+    "contrib": "W10=",
+    "id": "1611699096457",
+    "createdTime": 1611699096677,
+    "lastUpdatedTime": 1611699123140
+}
