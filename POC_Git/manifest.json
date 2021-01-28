@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "type": "flogo",
     "resources": {
-        "physicalMemory": 1024,
+        "physicalMemory": 512,
         "totalMemory": 4096,
         "cpuQuota": 25
     },
